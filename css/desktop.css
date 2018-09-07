@@ -1,0 +1,82 @@
+body {
+    
+   
+    margin: 0%;
+}
+.bloc1 {
+    border: 1px solid black;
+    height: 700px;
+    margin-right: 1100px;
+    background-color: black;
+}
+.Acceuil,.Statistique,.programation,.devolepment {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid black;
+    color: white;
+    
+    
+    
+    
+}
+.devolepment {
+    position: relative;
+    top : 520px;
+    padding: 50px;
+    left: 18px;
+    
+    
+
+    
+}
+.programation {
+    position: relative;
+    top: 360px;
+    padding: 50px;
+    left: 18px;
+
+    
+}
+.Statistique {
+    position: relative;
+    top :200px;
+    padding: 50px;
+    left: 18px;
+    
+}
+.Acceuil {
+    position: relative;
+    top: 54px;
+    padding: 50px;
+    left: 30px;
+    
+}
+.Acceuil:hover,.Statistique:hover,.programation:hover,.devolepment:hover {
+    background-color: white;
+    color: black;
+}
+img {
+    position: absolute;
+    left: 50%;
+    width: 300px;
+}
+
+.bloc2{
+    position: absolute;
+    right: 0px;
+    top : 0px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: black;
+    
+    
+    
+}
+.co {
+    color: white;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
